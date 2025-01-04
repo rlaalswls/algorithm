@@ -1,4 +1,6 @@
 // 빙산 dnc
+// txt 파일 입력
+
 #include <stdio.h>
 #include <stdlib.h>
 
